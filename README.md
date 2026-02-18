@@ -124,11 +124,11 @@
   &nbsp; GitHub Analytics
 </h2>
 
-<img src="https://github-readme-stats.vercel.app/api?username=wathsalaymi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&border_radius=12&bg_color=0d1117&title_color=6e40c9&icon_color=238636&text_color=8b949e&ring_color=6e40c9&order=1" height="160" alt="stats graph" />
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=wathsalaymi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&border_radius=12&bg_color=0d1117&title_color=6e40c9&icon_color=238636&text_color=8b949e&ring_color=6e40c9&order=1" height="160" alt="stats graph" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wathsalaymi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=github_dark&hide_border=true&border_radius=12&bg_color=0d1117&title_color=6e40c9&text_color=8b949e&order=2" height="160" alt="languages graph" />
 
-<br/>
+<br/> -->
 
 <img src="https://streak-stats.demolab.com?user=wathsalaymi&locale=en&mode=daily&theme=github-dark-blue&hide_border=true&border_radius=12&background=0D1117&ring=6E40C9&fire=238636&currStreakLabel=6E40C9&sideLabels=8B949E&dates=8B949E&order=3" height="160" alt="streak graph" />
 
