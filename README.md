@@ -199,9 +199,13 @@
 <!-- 💬 RANDOM DEV QUOTE                                                   -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
-
-<br/><br/>
+<p align="center" style="margin: 16px 0;">
+  <img
+    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"
+    alt="Random Dev Quote"
+    style="max-width: 100%; height: auto; display: block;"
+  />
+</p>
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 <!-- 🌊 FOOTER WAVE                                                        -->
