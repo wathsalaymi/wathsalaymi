@@ -39,7 +39,7 @@
 <img src="https://img.shields.io/badge/1st_Year_|_Faculty_of_IT_|_University_of_Moratuwa-1f6feb?style=flat-square&logo=google-scholar&logoColor=white" />
 <img src="https://img.shields.io/badge/Software_Developer-238636?style=flat-square&logo=dev.to&logoColor=white" />
 <br/><br/>
-
+<!-- 
 **`🎯 What I'm Into`**
 <br/><br/>
 <img src="https://img.shields.io/badge/Full--stack_Dev-6e40c9?style=for-the-badge&logo=stackblitz&logoColor=white" />
@@ -47,7 +47,7 @@
 <img src="https://img.shields.io/badge/Database_Design-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/UI_/_UX-FF61F6?style=for-the-badge&logo=figma&logoColor=white" />
 
-<br/>
+<br/> -->
 
 **`🎨 Beyond the Code`**
 <br/><br/>
