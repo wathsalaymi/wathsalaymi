@@ -4,14 +4,14 @@
 <!-- 🌌 COSMIC HEADER — animated gradient banner                          -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:161b22,50:6e40c9,75:238636,100:1f6feb&height=220&section=header&text=Indumini%20Wathsala&fontSize=42&fontColor=e6edf3&fontAlignY=35&desc=✦%20Software%20Developer%20✦&descSize=18&descColor=8b949e&descAlignY=55&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:161b22,50:6e40c9,75:238636,100:1f6feb&height=220&section=header&text=Indumini%20Wathsala&fontSize=42&fontColor=e6edf3&fontAlignY=35&desc=✦%20UOM%20IT%20Undergraduate%20✦&descSize=18&descColor=8b949e&descAlignY=55&animation=twinkling" width="100%" />
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 <!-- ⌨️ TYPING ANIMATION                                                   -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&repeat=true&width=400&height=50&lines=%3C%2F%3E+Software+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&repeat=true&width=500&height=50&lines=UOM+FIT+Undergraduate;%3C%2F%3E+Software+Developer" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -22,7 +22,7 @@
 <br/><br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!-- 🧬 ABOUT ME — hexagonal info cards                                    -->
+<!-- 🧬 ABOUT ME                                                           -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -34,29 +34,30 @@
   &nbsp; About Me
 </h2>
 
-```yaml
-# ─── 𝚒𝚗𝚍𝚞𝚖𝚒𝚗𝚒@𝚍𝚎𝚟 ~ $ whoami ───────────────────────────────
+<img src="https://img.shields.io/badge/👩‍💻_Indumini_Wathsala-6e40c9?style=for-the-badge" />
+<br/><br/>
+<img src="https://img.shields.io/badge/1st_Year_|_Faculty_of_IT_|_University_of_Moratuwa-1f6feb?style=flat-square&logo=google-scholar&logoColor=white" />
+<img src="https://img.shields.io/badge/Software_Developer-238636?style=flat-square&logo=dev.to&logoColor=white" />
+<br/><br/>
 
-  ╭─ 👩‍💻 identity
-  │  name        :  Indumini Wathsala
-  │  role        :  Software Developer
-  │  education   :  1st Year Undergraduate
-  │
-  ╭─ 🎯 interests
-  │  ▸ Full-stack Development
-  │  ▸ IoT & Arduino
-  │  ▸ Database Design
-  │  ▸ UI / UX
-  │
-  ╭─ 🎨 hobbies
-  │  ▸ Coding
-  │  ▸ Reading
-  │  ▸ Portrait Drawing
-  │
-  ╰─ status      :  𝙰𝚕𝚠𝚊𝚢𝚜 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐, 𝚗𝚎𝚟𝚎𝚛 𝚜𝚝𝚘𝚙𝚙𝚒𝚗𝚐 🚀
+**`🎯 What I'm Into`**
+<br/><br/>
+<img src="https://img.shields.io/badge/Full--stack_Dev-6e40c9?style=for-the-badge&logo=stackblitz&logoColor=white" />
+<img src="https://img.shields.io/badge/IoT_&_Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+<img src="https://img.shields.io/badge/Database_Design-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/UI_/_UX-FF61F6?style=for-the-badge&logo=figma&logoColor=white" />
 
-# ────────────────────────────────────────────────────────────
-```
+<br/>
+
+**`🎨 Beyond the Code`**
+<br/><br/>
+<img src="https://img.shields.io/badge/🎵_Listening_Music-161b22?style=for-the-badge" />
+<img src="https://img.shields.io/badge/📖_Reading-161b22?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🖌️_Portrait_Drawing-161b22?style=for-the-badge" />
+
+<br/><br/>
+
+> _✨ Always learning, never stopping_ 🚀
 
 <br/>
 
@@ -134,10 +135,10 @@
 <br/><br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!-- 🐍 CONTRIBUTION SNAKE                                                 -->
+<!-- � ACTIVITY GRAPH                                                     -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br/>
 
@@ -148,13 +149,13 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=wathsalaymi&bg_color=0d1117&color=6e40c9&line=238636&point=e6edf3&area_color=6e40c9&area=true&hide_border=true&custom_title=Contribution%20Graph" width="95%" alt="activity graph">
 
-<br/><br/>
+<br/><br/> -->
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 <!-- 🏆 TROPHIES                                                           -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br/>
 
@@ -165,7 +166,7 @@
 
 <img src="https://github-profile-trophy.vercel.app/?username=wathsalaymi&theme=discord&no-frame=true&no-bg=true&margin-w=10&column=7" width="95%" alt="trophy" />
 
-<br/><br/>
+<br/><br/> -->
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 <!-- 🌊 CONNECT — social links                                             -->
@@ -188,7 +189,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 &nbsp;
-<a href="mailto:wathsalaymi@gmail.com" target="_blank">
+<a href="mailto:induminiwathsala@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 
